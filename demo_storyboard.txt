@@ -1,0 +1,7 @@
+Scene 1 (0:00-0:15) - Intro: Open extension popup.
+Scene 2 (0:15-0:45) - Summarize article text.
+Scene 3 (0:45-1:05) - Translate summary to Hindi.
+Scene 4 (1:05-1:35) - Rewrite rough paragraph for grammar improvement.
+Scene 5 (1:35-2:05) - Generate quiz questions from text.
+Scene 6 (2:05-2:20) - Show offline & privacy mode.
+Scene 7 (2:20-2:40) - Closing, GitHub link, call-to-action.

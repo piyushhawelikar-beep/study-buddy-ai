@@ -1,0 +1,6 @@
+1. Chrome Extension folder ready with all files.
+2. Demo video (<3 min) recorded and uploaded (YouTube/Vimeo).
+3. GitHub repo created with README, code, and license.
+4. Text description explaining features, APIs used, and problem solved.
+5. All AI processing is client-side.
+6. Zip folder ready for hackathon submission.
